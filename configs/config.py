@@ -1,0 +1,22 @@
+pdf_path = 'Md_Arifur_Rahman_Anik_1716448919903.pdf'
+
+programming_languages = ["Python", "Django", "Flask", "FastAPI", "Pyramid", "Bottle", "TensorFlow", "Keras", "PyTorch", "Java", "Spring", "Hibernate",
+                        "JavaServer Faces (JSF)", "Apache Struts", "Grails", "C++", "Qt", "Boost", "POCO", "Cocos2d-x", "JavaScript", "React",
+                        "Angular", "Vue.js", "Node.js", "Express", "Meteor", "Ember.js", "C#", "ASP.NET", "Entity Framework", "Xamarin", "Blazor",
+                        "NancyFX", "Ruby", "Ruby on Rails", "Sinatra", "Hanami", "Padrino", "PHP", "Laravel", "Symfony", "CodeIgniter",
+                        "Zend Framework", "Yii", "Swift", "Vapor", "Kitura", "Perfect", "Go", "Gin", "Echo", "Beego", "Revel", "Kotlin", "Ktor",
+                        "Spring Boot", "Exposed", "Rust", "Actix", "Rocket", "Tide", "Scala", "Akka", "Play Framework", "Lagom", "TypeScript",
+                        "NestJS", "Angular", "Next.js", "R", "Shiny", "R Markdown", "ggplot2", "Perl", "Dancer", "Mojolicious", "Catalyst", "MATLAB",
+                        "Simulink", "MATLAB Production Server", "SQL", "SQLAlchemy", "MyBatis", "Hibernate", "HTML", "Bootstrap", "Foundation", "Bulma",
+                        "CSS", "Sass", "LESS", "Tailwind CSS", "Dart", "Flutter", "AngularDart", "Shell", "Bash", "Zsh", "Fish", "Objective-C", "Cocoa",
+                        "Cocoa Touch", "Visual Basic", "ASP.NET Web Forms", "WinForms", "WPF", "Assembly", "MASM", "NASM", "Haskell", "Yesod", "Snap",
+                        "Play", "Lua", "LÖVE", "Corona SDK", "Groovy", "Grails", "Spock", "Ratpack", "SAS", "SAS Studio", "SAS Visual Analytics", "F#",
+                        "Fable", "Suave", "Giraffe", "VHDL", "ModelSim", "Vivado", "Verilog", "ModelSim", "Vivado", "ActionScript", "Apache Flex",
+                        "Erlang", "Cowboy", "N2O", "Phoenix", "Smalltalk", "Pharo", "Squeak", "Lisp", "Common Lisp", "CLIPS", "Prolog", "SWI-Prolog",
+                        "GNU Prolog", "Ada", "GNAT", "RPG", "IBM Rational Developer for i", "Delphi", "Embarcadero Delphi", "FoxPro", "Visual FoxPro",
+                        "ML", "OCaml", "SML/NJ", "PostScript", "Ghostscript", "JScript", "ASP.NET Web Forms", "Tcl", "Tk", "Tix", "XSLT", "Saxon",
+                        "Xalan", "PowerShell", "PowerShell Core", "Powershell DSC", "Solidity", "Truffle", "Hardhat", "Julia", "Flux", "Knet", "HCL",
+                        "Terraform", "PL/SQL", "Oracle SQL Developer", "SML", "Standard ML of New Jersey", "LabVIEW", "NI LabVIEW", "Razor",
+                        "ASP.NET Core Razor", "Forth", "Gforth", "Eiffel", "EiffelStudio", "Clojure", "Compojure", "Luminus", "Elixir", "Phoenix",
+                        "Nerves", "Xamarin", "Xamarin.Forms", "Apache Groovy", "Grails", "Spock", "Jupyter Notebook", "JupyterLab", "MATLAB/Simulink",
+                        "Simulink", "NATURAL", "Adabas NATURAL", "ABAP", "SAP ABAP", "REXX", "Open Object REXX"]
