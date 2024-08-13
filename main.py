@@ -32,7 +32,6 @@ def assess_langauge_quality(text):
                     "internship"]
     for token in doc:
         if token.pos_ == "VERB" and token.lemma_ in action_verbs:
-            print(token.lemma_)
             return len(token)
 
 
@@ -130,7 +129,7 @@ def language_score(text):
     return score
 
 
-print(language_score(extract_text(pdf_path)))
+# print(language_score(extract_text(pdf_path)))
 
 
 def ai_cv_score():
